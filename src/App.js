@@ -13,7 +13,7 @@ function App() {
     <>
       <div style={{ backgroundColor: "black", color: 'white' }}>
         <div style={{ display: 'flex', justifyContent: 'space-around', padding: '40px' }}>
-          <h1>Solicitor</h1>
+          {/* <h1>Solicitor</h1> */}
 
           <div>
             <button style={{ border: "none", height: "40px", width: "150px", backgroundColor: "black", color: 'white' }} onClick={() => navigate('/testfirst')}>Home</button>
